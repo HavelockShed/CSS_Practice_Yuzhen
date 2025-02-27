@@ -1,0 +1,9 @@
+div {
+    color: rgb(230, 210, 234);
+    background-color: rgb(20,12,34);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-size: 22px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+}
