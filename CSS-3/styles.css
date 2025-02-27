@@ -1,0 +1,18 @@
+.click 
+.not-click
+{
+    font: size 28px;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.click
+{
+    background-color:#f0f00d;
+    color:#000;
+}
+
+.not-click 
+{
+    background-color: #000;
+    color:#f4f4f4;
+}
