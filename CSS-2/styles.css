@@ -1,21 +1,35 @@
 .odd {
-    color:hex(#238080);
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size:30px;
-    font-weight:bold;
-    padding:15px;
-    margin:10px;
-    border:#238080 solid 1px;
-    background-color:#908070;
-    text-align:center;
+    color: #238080; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 15px;
+    margin: 10px;
+    border: #238080 solid 1px;
+    background-color: #908070;
+    text-align: center;
+}
+
+.adjust-font-size {
+    font-size: 60px; 
 }
 
 .two {
     background-color: hsl(30, 100%, 90%);
     color: hsl(15, 100%, 60%);
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size:30px;
-    font-weight:bold;
-    padding:15px;
-    margin:10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 15px;
+    margin: 10px;
+}
+
+#four {
+    background-color: #000;
+    color: #00796b;
+    padding: 15px;
+    line-height: 1.6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 5px; 
 }
